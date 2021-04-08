@@ -2,9 +2,7 @@
 ---------------------------------
 CP372 Read Me Documentation
 ---------------------------------
-Author: Maxwell Forster, Kevin Chisholm
-ID: 180662180, 181717310
-Email: fors2180@mylaurier.ca, chis7310@mylaurier.ca
+Author: Kevin Chisholm, Maxwell Forster
 ---------------------------------
 
 How to run our Proxy
